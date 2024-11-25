@@ -1,5 +1,5 @@
 
-# **.Further-Pretrain Spritual-BERT
+# **.Further-Pretrained Spritual-BERT
 
 ### 1. Pre-Training with MLM
 - Loads the `bert-base-uncased` model and tokenizer.
